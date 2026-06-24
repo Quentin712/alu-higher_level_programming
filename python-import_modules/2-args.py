@@ -6,7 +6,7 @@ def main():
     n = len(argv) - 1
 
     if n == 0:
-        print("{} argument.".format(n))
+        print("{} arguments.".format(n))
     elif n == 1:
         print("{} argument:".format(n))
     else:
