@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # python-almost_a_circle
 
 Part of the ALU Higher Level Programming curriculum.
@@ -39,3 +40,6 @@ Rosette
 =======
 Python - Almost a circle
 >>>>>>> 3cb175a (Validate attributes)
+=======
+Python - Almost a circle
+>>>>>>> 3cb175abd6822bc4d7ed9d462d5375f255c82093
