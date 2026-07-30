@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # python-almost_a_circle
 
 Part of the ALU Higher Level Programming curriculum.
@@ -35,3 +36,6 @@ $ python3 -m unittest discover tests
 ## Author
 
 Rosette
+=======
+Python - Almost a circle
+>>>>>>> 3cb175a (Validate attributes)
