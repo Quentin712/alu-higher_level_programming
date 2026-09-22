@@ -4,7 +4,7 @@ const num = parseInt(process.argv[2], 10);
 
 if (isNaN(num)) {
   console.log('Missing number of occurrences');
-} else {
+} else if (num > 0) {
   let str = '';
   for (let i = 0; i < num; i++) {
     str += 'C is fun\n';
